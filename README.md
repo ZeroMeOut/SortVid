@@ -10,9 +10,6 @@ SortVid is a Streamlit app inspired by the concept demonstrated in the [Suckerpi
 
 - **Streamlit Interface:** Provides a user-friendly web interface powered by Streamlit for easy interaction.
 
-## Demo
-
-[Insert a GIF or a screenshot of the app in action]
 
 ## Getting Started
 
