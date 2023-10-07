@@ -25,7 +25,7 @@ Follow these steps to set up and run the SortVid project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SortVid.git
+   git clone https://github.com/ZeroMeOut/SortVid.git
    cd SortVid
    ```
 
