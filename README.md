@@ -20,8 +20,9 @@ Follow these steps to set up and run the SortVid project locally:
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.9
 - Pip (Python package installer)
+You may need the ffmepg exe file in the repo
 
 ### Installation
 
@@ -30,4 +31,33 @@ Follow these steps to set up and run the SortVid project locally:
    ```bash
    git clone https://github.com/yourusername/SortVid.git
    cd SortVid
+   ```
+
+2. Install dependencies:
+
+   ```bash
+    pip install -r requirements.txt
+   ```
+
+### Running the App
+
+Run the Streamlit app:
+   ```bash
+    streamlit run app.py
+   ```
+
+Visit http://localhost:8501 in your browser to interact with the SortVid application.
+
+### Usage
+
+1. Upload a video file.
+
+2. The app will extract subtitles and rearrange the video based on the alphabetical order of words in the subtitles.
+
+3. Enjoy watching the sorted video!
+
+### Contributing
+
+If you'd like to contribute to SortVid, feel free to do so.
+
 
