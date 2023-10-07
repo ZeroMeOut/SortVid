@@ -22,7 +22,6 @@ Follow these steps to set up and run the SortVid project locally:
 
 - Python 3.9
 - Pip (Python package installer)
-You may need the ffmepg exe file in the repo
 
 ### Installation
 
@@ -32,6 +31,8 @@ You may need the ffmepg exe file in the repo
    git clone https://github.com/yourusername/SortVid.git
    cd SortVid
    ```
+
+   You may need the ffmepg exe file in the repo
 
 2. Install dependencies:
 
